@@ -19,7 +19,7 @@ customElements.define(
           <a href="https://www.youtube.com/@pombo_proibido" target="_BLANK">youtube</a>
         </li>
       </ul>
-      <time datetime="2025/05/03">2025.05.05</time>
+      <time datetime="2025/05/03">2026.02.19</time>
     </footer>
   `,
 		}
