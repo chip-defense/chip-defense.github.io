@@ -67,7 +67,7 @@ customElements.define(
               <nn-dropdown label="Developer Tools">
                 <a target="_self" href="changelog.html">Changelog</a>
                 <a data-hidden="true" target="_self" href="design.html">Design</a>
-                <a data-hidden="true" target="_self" href="about.html">About Salishan Keyboard</a>
+                <a data-hidden="true" target="_self" href="about.html">About ChipDefense: Copper</a>
               </nn-dropdown>
             </li>
             

@@ -41,7 +41,7 @@ nav {
 
 		.dropdown-trigger,
 		a:not(.logo) {
-			color: var(--header-color);
+			color: var(--accent-color);
 			padding: 1rem;
 			transition: background-color, color, ease, 200ms;
 			border-radius: 10px;
@@ -51,7 +51,7 @@ nav {
 
 			&:hover,
 			&.active {
-				background-color: var(--header-color);
+				background-color: var(--accent-color);
 				color: var(--background-color);
 			}
 		}
@@ -96,62 +96,6 @@ nav {
 
 		&.fade-out {
 			opacity: 0;
-		}
-	}
-}
-
-@media (max-width: 992px) {
-	salishan-navbar {
-		&.open {
-			.mobile-controls {
-				button {
-					&.close-menu {
-						display: block;
-					}
-				}
-			}
-
-			ul {
-				display: flex;
-			}
-		}
-
-		.mobile-controls {
-			display: flex;
-		}
-
-		ul {
-			flex-direction: column;
-			display: none;
-
-			li {
-				width: 100%;
-				text-align: center;
-
-				a {
-					width: 100%;
-				}
-			}
-
-			nn-dropdown {
-				flex-basis: 100%;
-				width: 100%;
-				display: block;
-
-				&,
-				&.open {
-					.dropdown-trigger {
-						display: none;
-					}
-
-					.dropdown-content {
-						display: flex;
-						width: 100%;
-						flex-direction: column;
-						position: static;
-					}
-				}
-			}
 		}
 	}
 }

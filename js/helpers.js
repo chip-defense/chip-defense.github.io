@@ -1,5 +1,5 @@
 const home = {
-	url: 'https://salishan.github.io/',
+	url: 'https://chip-defense.github.io/',
 }
 
 const modulePrefix = 'chip'
