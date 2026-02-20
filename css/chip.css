@@ -189,19 +189,6 @@ nn-dropdown {
 	}
 }
 
-.blockquote {
-	width: 100%;
-	border: 1px solid var(--border-color);
-	border-radius: 10px;
-	padding: 1rem;
-	background-color: #1b2c2a;
-	transition: background-color ease-in-out 200ms;
-
-	&:hover {
-		background-color: #253b4096;
-	}
-}
-
 [data-tooltip]:after {
 	text-transform: uppercase;
 }
@@ -253,7 +240,7 @@ nn-dropdown {
 
 .chip-home {
 	header {
-		background: url(../img/pattern.svg);
+		background: url(../img/pattern.png);
 		animation: chipPatternScroll 4s linear infinite;
 		display: flex;
 		width: 100%;
@@ -306,7 +293,8 @@ nn-dropdown {
 	article {
 		width: 100%;
 		border: 1px solid var(--border-color);
-		border-radius: 10px;
+		border-radius: 15px;
+		corner-shape: notch;
 		padding: 1rem;
 		background-color: #253b40;
 		transition: background-color ease-in-out 200ms;

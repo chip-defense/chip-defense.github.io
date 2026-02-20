@@ -48,10 +48,10 @@ customElements.define(
 						}" y="40" width="1920" height="400" fill="#333" />`
 
 				return `
-      <text y="0" font-family="Montserrat">
+      <text y="0">
         <tspan fill="#fff" x="${
 					index * (1920 + gap)
-				}" font-size="3rem" font-weight="300">
+				}" font-size="6rem" font-weight="300">
           ${e.title}
         </tspan>
       </text>

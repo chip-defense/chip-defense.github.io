@@ -44,7 +44,6 @@ footer.page-footer {
     &:after {
       content: '';
       position: absolute;
-      border-radius: 50%;
     }
 
     &:before {
