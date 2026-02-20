@@ -44,6 +44,8 @@ nav {
 			padding: 1rem;
 			transition: background-color, color, ease, 200ms;
 			display: inline-block;
+			border-radius: 5px;
+			corner-shape: notch;
 			white-space: nowrap;
 			text-transform: uppercase;
 
