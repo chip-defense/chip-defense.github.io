@@ -253,7 +253,8 @@ nn-dropdown {
 
 .chip-home {
 	header {
-		background-color: #3d3d60;
+		background: url(../img/pattern.svg);
+		animation: chipPatternScroll 4s linear infinite;
 		display: flex;
 		width: 100%;
 		min-height: 400px;
@@ -262,10 +263,15 @@ nn-dropdown {
 		justify-content: center;
 		flex-direction: column;
 		gap: 1rem;
+	}
+}
 
-		img {
-			/* width: 100%; */
-		}
+@keyframes chipPatternScroll {
+	from {
+		background-position: 0 0;
+	}
+	to {
+		background-position: 53px 53px;
 	}
 }
 
