@@ -16,11 +16,11 @@ The game also features “heroes of the information age”: historical figures t
 
 | Select Level | Settings | About |
 | - | - | - |
-| ![Select Level](https://raw.githubusercontent.com/pomboproibido/chip-defense-copper/refs/heads/main/fastlane/metadata/android/en-US/images/phoneScreenshots/3.png) | ![Settings](https://raw.githubusercontent.com/pomboproibido/chip-defense-copper/refs/heads/main/fastlane/metadata/android/en-US/images/phoneScreenshots/2.png) | ![About](https://raw.githubusercontent.com/pomboproibido/chip-defense-copper/refs/heads/main/fastlane/metadata/android/en-US/images/phoneScreenshots/9.png) |
+| ![Select Level](https://raw.githubusercontent.com/pomboverso/chip-defense-copper/refs/heads/main/fastlane/metadata/android/en-US/images/phoneScreenshots/3.png) | ![Settings](https://raw.githubusercontent.com/pomboverso/chip-defense-copper/refs/heads/main/fastlane/metadata/android/en-US/images/phoneScreenshots/2.png) | ![About](https://raw.githubusercontent.com/pomboverso/chip-defense-copper/refs/heads/main/fastlane/metadata/android/en-US/images/phoneScreenshots/9.png) |
 
 
 ---
 
 ## Downlaod
 
-Get the latest APK from the [Releases page](https://github.com/pomboproibido/chip-defense-copper/releases)
+Get the latest APK from the [Releases page](https://github.com/pomboverso/chip-defense-copper/releases)
